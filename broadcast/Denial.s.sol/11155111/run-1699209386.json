@@ -1,0 +1,33 @@
+{
+  "transactions": [
+    {
+      "hash": "0xe5b40feafa844188c288d58e8e27b93c4a36a08b375c84267dd3293f22c2ac4b",
+      "transactionType": "CREATE",
+      "contractName": "DenialAttacker",
+      "contractAddress": "0x434b168B49aeD75E73c88bF63C62FbF4f2FDfF9D",
+      "function": null,
+      "arguments": null,
+      "transaction": {
+        "type": "0x02",
+        "from": "0xfa9e6f9049ff9874fa6c1ea72c9e96285f2aee3a",
+        "gas": "0x1e6b9",
+        "value": "0x0",
+        "data": "0x6080604052348015600f57600080fd5b50604051631387164560e21b815230600482015273ec11848eec3dbde710641e7963d66b123fdb01b3908190634e1c591490602401600060405180830381600087803b158015605d57600080fd5b505af11580156070573d6000803e3d6000fd5b505050505060488060826000396000f3fe608060405236600d575b6009565b600080fdfea264697066735822122041baea3169296d93f1daabde5973760de0d7b8339fb18e19225400e2214215c364736f6c63430008140033",
+        "nonce": "0x9c",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [
+    "0xe5b40feafa844188c288d58e8e27b93c4a36a08b375c84267dd3293f22c2ac4b"
+  ],
+  "returns": {},
+  "timestamp": 1699209386,
+  "chain": 11155111,
+  "multi": false,
+  "commit": "adb03d2"
+}
